@@ -50,3 +50,5 @@ Some highlights from the analysis ([full details in Banking_Insights.docx](Banki
 2. **Read Insights:** See `Banking_Insights.docx` for a strategic summary.
 3. **Explore Code:** Open `Risk_Analysis.ipynb` for data cleaning and EDA steps.
 4. **Datasets:** All CSVs are provided for your own analysis.
+
+![Power BI](https://img.shields.io/badge/visualized%20in-Power%20BI-yellow?logo=powerbi)
